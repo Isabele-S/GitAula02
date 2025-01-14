@@ -1,2 +1,7 @@
 # GitAula02
-Novos testes com o Git
+
+
+Contato:
+
+* Isabele Soares Gomes
+* isg1@aluno.ifnmg.edu.br
